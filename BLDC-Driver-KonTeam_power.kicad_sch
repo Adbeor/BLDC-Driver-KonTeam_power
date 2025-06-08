@@ -3771,8 +3771,8 @@
 		)
 	)
 	(rectangle
-		(start 15.24 17.78)
-		(end 67.31 41.91)
+		(start 33.02 30.48)
+		(end 85.09 54.61)
 		(stroke
 			(width 0)
 			(type default)
@@ -3783,8 +3783,8 @@
 		(uuid 4fa1a12d-1de4-44ea-891e-4f2e18b69baa)
 	)
 	(rectangle
-		(start 114.3 170.18)
-		(end 168.91 196.85)
+		(start 148.59 170.18)
+		(end 173.99 196.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -3807,8 +3807,8 @@
 		(uuid 9ab585b1-562d-48cd-9e13-d67539e13b07)
 	)
 	(rectangle
-		(start 60.96 170.18)
-		(end 107.95 196.85)
+		(start 99.06 170.18)
+		(end 146.05 196.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -3819,8 +3819,8 @@
 		(uuid a57438c8-295b-4b81-8c45-1a2e658d82e5)
 	)
 	(rectangle
-		(start 13.97 170.18)
-		(end 58.42 196.85)
+		(start 52.07 170.18)
+		(end 96.52 196.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -3832,7 +3832,7 @@
 	)
 	(text "Linear Regulator"
 		(exclude_from_sim no)
-		(at 21.844 169.164 0)
+		(at 59.944 169.164 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3842,7 +3842,7 @@
 	)
 	(text "Logic Connector"
 		(exclude_from_sim no)
-		(at 68.834 168.91 0)
+		(at 106.934 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3852,7 +3852,7 @@
 	)
 	(text "Test Connectors"
 		(exclude_from_sim no)
-		(at 121.92 168.91 0)
+		(at 156.21 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3889,46 +3889,22 @@
 		(uuid "081f2084-3d20-4e33-b6d0-ff2da7c0e60a")
 	)
 	(junction
-		(at 212.09 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "15ddacb6-bdc7-46a1-838b-8bf9c56a5cf0")
-	)
-	(junction
 		(at 34.29 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c06bb8f-858b-46b8-a5d5-4833a11868f5")
 	)
 	(junction
-		(at 143.51 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "21092f1b-b3cf-4cc9-bee1-f9435e751baa")
-	)
-	(junction
-		(at 201.93 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22410703-8012-4f25-abf7-68a2de834df4")
-	)
-	(junction
-		(at 143.51 22.86)
+		(at 168.91 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23c552f1-2b80-41b0-b396-54edeeef56d2")
 	)
 	(junction
-		(at 35.56 25.4)
+		(at 53.34 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "260a4eb1-f4f7-4f3a-b93b-11d30863a4e7")
-	)
-	(junction
-		(at 201.93 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34b9a268-2844-40a6-b9fb-2fb953c355d7")
 	)
 	(junction
 		(at 66.675 108.585)
@@ -3943,37 +3919,31 @@
 		(uuid "358c1391-b6ef-4c4d-8a47-d0462daddcd6")
 	)
 	(junction
-		(at 85.09 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3940cdae-13ba-4dbf-9717-09df1b09854a")
-	)
-	(junction
-		(at 201.93 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3f7b0ca3-feb9-4639-b0c2-0b11a3b753d3")
-	)
-	(junction
-		(at 201.93 50.8)
+		(at 205.74 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "454249fc-a3e8-4831-a6b0-12a2b1b53767")
 	)
 	(junction
-		(at 85.09 22.86)
+		(at 132.08 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b3e812b-508b-4b4d-a455-58458a8307d4")
 	)
 	(junction
-		(at 24.13 181.61)
+		(at 220.98 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51e2ca34-b1ae-4a22-b682-8133ce45b11a")
+	)
+	(junction
+		(at 62.23 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58c0da94-bd5d-42d3-8218-0e44c58de33a")
 	)
 	(junction
-		(at 143.51 50.8)
+		(at 168.91 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5a6103a7-3995-4068-a05d-d446dec02585")
@@ -3989,12 +3959,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b7cba6b-5bb0-438d-9c4b-7756c02d80d6")
-	)
-	(junction
-		(at 220.98 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5bbbbd98-1dfd-44f1-8398-6b3c38b3f29a")
 	)
 	(junction
 		(at 34.29 130.81)
@@ -4027,12 +3991,6 @@
 		(uuid "747ef452-2b45-4d87-8f4f-d806bc82c6cf")
 	)
 	(junction
-		(at 85.09 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7eb443b7-c6d9-4494-9129-0bbb83fc59e6")
-	)
-	(junction
 		(at 217.17 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4045,22 +4003,22 @@
 		(uuid "82e11413-bceb-420d-a56e-d3528f9bda3b")
 	)
 	(junction
-		(at 143.51 45.72)
+		(at 132.08 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9670a260-2295-4f94-b635-e6670e2c0ca5")
+		(uuid "96cdd8f5-37cc-413d-8e9b-e714915f7fbc")
 	)
 	(junction
-		(at 85.09 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a28729a5-758e-484d-8c82-0fde0d2c5445")
-	)
-	(junction
-		(at 35.56 35.56)
+		(at 53.34 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abb82f60-476b-4772-ae89-7eaf3baf9496")
+	)
+	(junction
+		(at 168.91 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abc1796a-98e7-4b2c-ba39-c0d7d3047dac")
 	)
 	(junction
 		(at 236.22 106.68)
@@ -4069,7 +4027,19 @@
 		(uuid "ac430294-1a3b-419d-98a9-ff3f1e6fb8ba")
 	)
 	(junction
-		(at 53.34 181.61)
+		(at 127 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad23225e-f80c-44f3-b2a6-281ed7e5a52d")
+	)
+	(junction
+		(at 132.08 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3af338b-1892-46b7-84c6-010c4268f92c")
+	)
+	(junction
+		(at 91.44 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b62a9fc9-71a9-42f8-8642-07f390525daa")
@@ -4087,22 +4057,10 @@
 		(uuid "b991fa3e-4ca9-4117-b8a1-8b8f6d6cd0ee")
 	)
 	(junction
-		(at 104.14 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb96e3dc-ec19-49ff-8ce5-ed28c97b59a2")
-	)
-	(junction
-		(at 201.93 30.48)
+		(at 205.74 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c291dbfd-6cc2-4a5d-887d-06e461b0ecbd")
-	)
-	(junction
-		(at 162.56 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c33d7b3e-bb9d-4512-bc0c-ec970fb1287a")
 	)
 	(junction
 		(at 214.63 105.41)
@@ -4129,52 +4087,22 @@
 		(uuid "cd6c46fa-6a43-4f94-af42-bbd0b8bb2607")
 	)
 	(junction
-		(at 129.54 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6762573-c8a7-4b70-8939-16e84325fc55")
-	)
-	(junction
-		(at 129.54 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc82b772-b667-415d-833a-e9a12cf088ca")
-	)
-	(junction
-		(at 143.51 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "deaa0e1d-54bb-4caf-b535-0cbbfdd4f435")
-	)
-	(junction
-		(at 143.51 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef3189da-a5df-43ec-b35a-523acff266bb")
-	)
-	(junction
 		(at 47.625 100.965)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f47752d6-8961-4a18-a4a5-307831efa0ba")
 	)
 	(junction
-		(at 85.09 50.8)
+		(at 132.08 52.07)
 		(diameter 0)
 		(color 255 248 0 1)
 		(uuid "f4e2cae1-2576-408c-b30a-d12eb0194351")
 	)
 	(junction
-		(at 19.05 25.4)
+		(at 36.83 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f624408e-9caa-4f4f-9a28-08739384d501")
-	)
-	(junction
-		(at 85.09 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f91c6d60-3fc4-4400-bb11-f6ef24fd59dc")
 	)
 	(wire
 		(pts
@@ -4218,17 +4146,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 55.88) (xy 85.09 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02bd48e0-2260-4cd5-96d6-48c82fcf1399")
-	)
-	(wire
-		(pts
-			(xy 24.13 182.88) (xy 24.13 181.61)
+			(xy 62.23 182.88) (xy 62.23 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4238,7 +4156,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 50.8) (xy 201.93 55.88)
+			(xy 205.74 52.07) (xy 205.74 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4268,26 +4186,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 30.48) (xy 85.09 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "084c4af5-8b65-4d42-a7b8-144ab13adf56")
-	)
-	(wire
-		(pts
-			(xy 129.54 106.68) (xy 129.54 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a06389a-b85d-4ae0-b919-012864d38c54")
-	)
-	(wire
-		(pts
 			(xy 224.79 139.7) (xy 224.79 144.78)
 		)
 		(stroke
@@ -4298,7 +4196,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 97.79) (xy 129.54 101.6)
+			(xy 132.08 96.52) (xy 132.08 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4318,6 +4216,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 29.21) (xy 168.91 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0db5e87f-6773-4349-b89a-56a6a5cf03d1")
+	)
+	(wire
+		(pts
 			(xy 66.04 98.425) (xy 66.675 98.425)
 		)
 		(stroke
@@ -4328,7 +4236,17 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 179.07) (xy 63.5 181.61)
+			(xy 127 96.52) (xy 129.54 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eb0fbe4-8da8-42fb-afc9-20cbfe58786b")
+	)
+	(wire
+		(pts
+			(xy 101.6 179.07) (xy 101.6 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4358,7 +4276,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 101.6) (xy 139.7 101.6)
+			(xy 142.24 99.06) (xy 140.97 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4408,7 +4326,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 20.32) (xy 85.09 22.86)
+			(xy 132.08 21.59) (xy 132.08 24.13)
 		)
 		(stroke
 			(width 0)
@@ -4418,7 +4336,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 64.77) (xy 80.01 64.77)
+			(xy 121.92 66.04) (xy 127 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4428,7 +4346,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 50.8) (xy 143.51 50.8)
+			(xy 172.72 52.07) (xy 168.91 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4458,7 +4376,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 95.25) (xy 214.63 100.33)
+			(xy 214.63 95.25) (xy 214.63 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4478,16 +4396,6 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 71.12) (xy 220.98 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "166f6c54-9237-4ce4-a78e-b9464bb5690f")
-	)
-	(wire
-		(pts
 			(xy 127 120.65) (xy 127 118.11)
 		)
 		(stroke
@@ -4498,17 +4406,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 45.72) (xy 143.51 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17d7e629-6afe-471d-b6fe-e70c6931c856")
-	)
-	(wire
-		(pts
-			(xy 138.43 64.77) (xy 134.62 64.77)
+			(xy 163.83 66.04) (xy 160.02 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4518,27 +4416,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 67.31) (xy 99.06 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1982cf70-2af5-4e44-9445-71729814aada")
-	)
-	(wire
-		(pts
-			(xy 156.21 184.15) (xy 147.32 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a06840f-4597-441d-9d4d-ef6e27de012d")
-	)
-	(wire
-		(pts
-			(xy 78.74 194.31) (xy 80.01 194.31)
+			(xy 116.84 194.31) (xy 118.11 194.31)
 		)
 		(stroke
 			(width 0)
@@ -4558,7 +4436,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 30.48) (xy 177.8 30.48)
+			(xy 182.88 29.21) (xy 185.42 29.21)
 		)
 		(stroke
 			(width 0)
@@ -4598,7 +4476,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 181.61) (xy 53.34 182.88)
+			(xy 91.44 181.61) (xy 91.44 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4618,7 +4496,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 71.12) (xy 201.93 73.66)
+			(xy 205.74 68.58) (xy 205.74 74.93)
 		)
 		(stroke
 			(width 0)
@@ -4648,7 +4526,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 190.5) (xy 24.13 187.96)
+			(xy 62.23 190.5) (xy 62.23 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4668,7 +4546,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 179.07) (xy 24.13 181.61)
+			(xy 62.23 179.07) (xy 62.23 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4708,7 +4586,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 64.77) (xy 193.04 64.77)
+			(xy 200.66 66.04) (xy 196.85 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4718,17 +4596,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 30.48) (xy 162.56 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28ff8616-df67-4562-8eac-ce1bcc06ee80")
-	)
-	(wire
-		(pts
-			(xy 78.74 189.23) (xy 80.01 189.23)
+			(xy 116.84 189.23) (xy 118.11 189.23)
 		)
 		(stroke
 			(width 0)
@@ -4768,7 +4636,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 55.88) (xy 143.51 57.15)
+			(xy 168.91 52.07) (xy 168.91 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4778,7 +4646,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 45.72) (xy 201.93 50.8)
+			(xy 205.74 43.18) (xy 205.74 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4795,17 +4663,6 @@
 			(type default)
 		)
 		(uuid "324f65a8-0f8b-4bf3-af2a-20c7a0d5b31c")
-	)
-	(wire
-		(pts
-			(xy 85.09 71.12) (xy 104.14 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "3255fc36-1f8e-488f-a8f0-ee8ffc12ff83")
 	)
 	(wire
 		(pts
@@ -4859,7 +4716,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 50.8) (xy 85.09 50.8)
+			(xy 125.73 52.07) (xy 132.08 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4870,7 +4727,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 186.69) (xy 72.39 186.69)
+			(xy 118.11 186.69) (xy 110.49 186.69)
 		)
 		(stroke
 			(width 0)
@@ -4897,26 +4754,6 @@
 			(type default)
 		)
 		(uuid "39300002-8cfb-497c-87ee-c265cb916090")
-	)
-	(wire
-		(pts
-			(xy 85.09 45.72) (xy 104.14 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a13d37c-75e0-4b8c-a75c-4b831578550e")
-	)
-	(wire
-		(pts
-			(xy 201.93 41.91) (xy 201.93 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a3973af-e1c9-42d2-9800-923d68904c33")
 	)
 	(wire
 		(pts
@@ -4970,7 +4807,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 190.5) (xy 38.1 189.23)
+			(xy 76.2 190.5) (xy 76.2 189.23)
 		)
 		(stroke
 			(width 0)
@@ -4990,7 +4827,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 41.91) (xy 143.51 45.72)
+			(xy 168.91 43.18) (xy 168.91 52.07)
 		)
 		(stroke
 			(width 0)
@@ -5010,7 +4847,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 30.48) (xy 220.98 30.48)
+			(xy 205.74 31.75) (xy 215.9 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5020,7 +4857,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 180.34) (xy 53.34 181.61)
+			(xy 91.44 180.34) (xy 91.44 181.61)
 		)
 		(stroke
 			(width 0)
@@ -5030,7 +4867,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 181.61) (xy 80.01 181.61)
+			(xy 110.49 181.61) (xy 118.11 181.61)
 		)
 		(stroke
 			(width 0)
@@ -5050,27 +4887,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 44.45) (xy 104.14 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46917d09-b439-4604-a273-3bcbc2ab4eb7")
-	)
-	(wire
-		(pts
-			(xy 162.56 59.69) (xy 162.56 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47e1139c-126b-447b-993f-a3a0636ec765")
-	)
-	(wire
-		(pts
-			(xy 19.05 24.13) (xy 19.05 25.4)
+			(xy 36.83 36.83) (xy 36.83 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5087,16 +4904,6 @@
 			(type default)
 		)
 		(uuid "4869f570-dbf5-46e9-8fcf-e96dee624741")
-	)
-	(wire
-		(pts
-			(xy 143.51 50.8) (xy 143.51 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "487fdfe1-1fbb-4c58-a1ed-ad7fa5e1bff1")
 	)
 	(wire
 		(pts
@@ -5120,7 +4927,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 35.56) (xy 19.05 33.02)
+			(xy 36.83 48.26) (xy 36.83 45.72)
 		)
 		(stroke
 			(width 0)
@@ -5140,7 +4947,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 33.02) (xy 35.56 35.56)
+			(xy 53.34 45.72) (xy 53.34 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5170,17 +4977,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 69.85) (xy 220.98 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "528d9af8-d736-4542-b9aa-b04023297edc")
-	)
-	(wire
-		(pts
-			(xy 193.04 39.37) (xy 196.85 39.37)
+			(xy 196.85 40.64) (xy 200.66 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5200,7 +4997,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 30.48) (xy 177.8 31.75)
+			(xy 185.42 29.21) (xy 185.42 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5230,7 +5027,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 191.77) (xy 116.84 191.77)
+			(xy 161.29 191.77) (xy 153.67 191.77)
 		)
 		(stroke
 			(width 0)
@@ -5240,7 +5037,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 50.8) (xy 201.93 50.8)
+			(xy 209.55 52.07) (xy 205.74 52.07)
 		)
 		(stroke
 			(width 0)
@@ -5250,7 +5047,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 35.56) (xy 19.05 35.56)
+			(xy 53.34 48.26) (xy 36.83 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5267,6 +5064,16 @@
 			(type default)
 		)
 		(uuid "5a35a65e-d841-46d6-adac-0ee34854b86b")
+	)
+	(wire
+		(pts
+			(xy 133.35 99.06) (xy 132.08 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a3ec1cd-fbcf-4530-b37a-d502180e4d45")
 	)
 	(wire
 		(pts
@@ -5290,6 +5097,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 106.68) (xy 129.54 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e5b8728-8e3d-493c-ae90-fc480d5ea00d")
+	)
+	(wire
+		(pts
 			(xy 34.29 120.65) (xy 43.18 120.65)
 		)
 		(stroke
@@ -5310,17 +5127,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 45.72) (xy 85.09 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 248 0 1)
-		)
-		(uuid "61f5a068-a0f8-461c-8be7-6064b9e648e7")
-	)
-	(wire
-		(pts
 			(xy 72.39 98.425) (xy 72.39 102.235)
 		)
 		(stroke
@@ -5328,16 +5134,6 @@
 			(type default)
 		)
 		(uuid "6320f337-974d-4f4b-a200-542141b2dfc1")
-	)
-	(wire
-		(pts
-			(xy 143.51 55.88) (xy 162.56 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "640738ef-faf3-47f5-8b90-88403aab816e")
 	)
 	(wire
 		(pts
@@ -5361,7 +5157,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 179.07) (xy 104.14 179.07)
+			(xy 130.81 179.07) (xy 142.24 179.07)
 		)
 		(stroke
 			(width 0)
@@ -5381,16 +5177,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 30.48) (xy 162.56 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66420bcb-ab10-404b-a206-7ae6cab01004")
-	)
-	(wire
-		(pts
 			(xy 236.22 106.68) (xy 241.3 106.68)
 		)
 		(stroke
@@ -5401,7 +5187,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 27.94) (xy 35.56 25.4)
+			(xy 53.34 40.64) (xy 53.34 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5421,27 +5207,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 30.48) (xy 104.14 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68e25236-e853-4450-90c0-c968fda5ac6d")
-	)
-	(wire
-		(pts
-			(xy 85.09 30.48) (xy 104.14 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69a02406-340e-4997-b06b-f3899025d43e")
-	)
-	(wire
-		(pts
-			(xy 224.79 100.33) (xy 223.52 100.33)
+			(xy 229.87 97.79) (xy 228.6 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5461,17 +5227,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 59.69) (xy 104.14 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6db717f1-dd7d-4dad-9fa2-6f5990ce0376")
-	)
-	(wire
-		(pts
-			(xy 52.07 35.56) (xy 35.56 35.56)
+			(xy 69.85 48.26) (xy 53.34 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5488,16 +5244,6 @@
 			(type default)
 		)
 		(uuid "70b1202b-7d7e-4c42-a8dd-049f522a891d")
-	)
-	(wire
-		(pts
-			(xy 220.98 30.48) (xy 229.87 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "718b615d-1b29-4d6e-9af3-618bd4104dce")
 	)
 	(wire
 		(pts
@@ -5531,17 +5277,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 101.6) (xy 127 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7335358a-826b-4c63-ac27-f871367af620")
-	)
-	(wire
-		(pts
-			(xy 124.46 181.61) (xy 116.84 181.61)
+			(xy 161.29 181.61) (xy 153.67 181.61)
 		)
 		(stroke
 			(width 0)
@@ -5561,7 +5297,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 25.4) (xy 35.56 25.4)
+			(xy 36.83 38.1) (xy 53.34 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5581,13 +5317,23 @@
 	)
 	(wire
 		(pts
-			(xy 127 97.79) (xy 127 101.6)
+			(xy 127 96.52) (xy 127 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "74e94da2-0a20-414c-97bd-24ebbd65deb2")
+	)
+	(wire
+		(pts
+			(xy 220.98 102.87) (xy 220.98 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76411d2d-51a3-40a9-8b70-c6d1d752f879")
 	)
 	(wire
 		(pts
@@ -5601,16 +5347,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 179.07) (xy 147.32 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77a38f44-46c8-4910-9aab-9ca3dd61389e")
-	)
-	(wire
-		(pts
 			(xy 67.31 119.38) (xy 63.5 119.38)
 		)
 		(stroke
@@ -5621,33 +5357,13 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 59.69) (xy 220.98 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7933e296-edf3-4084-bbf1-039a0386a155")
-	)
-	(wire
-		(pts
-			(xy 85.09 22.86) (xy 143.51 22.86)
+			(xy 132.08 24.13) (xy 168.91 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "79f5f56a-b521-4643-b4cf-91bfc924819e")
-	)
-	(wire
-		(pts
-			(xy 156.21 186.69) (xy 154.94 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a91ccd1-ea72-4389-861b-1c3498262524")
 	)
 	(wire
 		(pts
@@ -5701,7 +5417,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 72.39) (xy 143.51 71.12)
+			(xy 168.91 68.58) (xy 168.91 73.66)
 		)
 		(stroke
 			(width 0)
@@ -5711,37 +5427,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 189.23) (xy 147.32 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e60be6d-e311-4560-a2f0-02be9fa287de")
-	)
-	(wire
-		(pts
-			(xy 95.25 41.91) (xy 99.06 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7fc8276f-c961-4de8-96d3-210c6a45e5c7")
-	)
-	(wire
-		(pts
-			(xy 214.63 41.91) (xy 215.9 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7fd65007-c822-4dcf-bf1c-10b8788fd279")
-	)
-	(wire
-		(pts
-			(xy 195.58 50.8) (xy 201.93 50.8)
+			(xy 199.39 52.07) (xy 205.74 52.07)
 		)
 		(stroke
 			(width 0)
@@ -5761,16 +5447,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 67.31) (xy 156.21 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "824eac5a-abbe-4fcd-8e30-905119cd51de")
-	)
-	(wire
-		(pts
 			(xy 118.11 118.11) (xy 127 118.11)
 		)
 		(stroke
@@ -5781,7 +5457,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 106.68) (xy 129.54 106.68)
+			(xy 125.73 106.68) (xy 127 106.68)
 		)
 		(stroke
 			(width 0)
@@ -5801,7 +5477,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 33.02) (xy 52.07 35.56)
+			(xy 69.85 45.72) (xy 69.85 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5828,16 +5504,6 @@
 			(type default)
 		)
 		(uuid "8819bcf6-a9b0-46e8-bd8c-29245ae2d1dc")
-	)
-	(wire
-		(pts
-			(xy 104.14 69.85) (xy 104.14 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8897ed40-9b6e-4669-b05d-7cc8cec6533a")
 	)
 	(wire
 		(pts
@@ -5871,7 +5537,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 181.61) (xy 30.48 181.61)
+			(xy 62.23 181.61) (xy 68.58 181.61)
 		)
 		(stroke
 			(width 0)
@@ -5881,7 +5547,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 68.58) (xy 38.1 68.58)
+			(xy 34.29 191.77) (xy 30.48 191.77)
 		)
 		(stroke
 			(width 0)
@@ -5891,7 +5557,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 184.15) (xy 116.84 184.15)
+			(xy 161.29 184.15) (xy 153.67 184.15)
 		)
 		(stroke
 			(width 0)
@@ -5901,17 +5567,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 44.45) (xy 162.56 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "908d229e-8dc4-4dfc-8c2d-d7823afb150b")
-	)
-	(wire
-		(pts
-			(xy 114.3 111.76) (xy 114.3 109.22)
+			(xy 113.03 111.76) (xy 113.03 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5941,7 +5597,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 30.48) (xy 201.93 22.86)
+			(xy 205.74 31.75) (xy 205.74 24.13)
 		)
 		(stroke
 			(width 0)
@@ -5951,7 +5607,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 22.86) (xy 201.93 22.86)
+			(xy 168.91 24.13) (xy 205.74 24.13)
 		)
 		(stroke
 			(width 0)
@@ -5971,13 +5627,13 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 191.77) (xy 154.94 191.77)
+			(xy 132.08 29.21) (xy 132.08 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9849728a-25c3-4dbe-afc9-27d4fb7d7b38")
+		(uuid "967d7844-7229-4469-8376-b8bd3b587c43")
 	)
 	(wire
 		(pts
@@ -6001,16 +5657,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 99.06) (xy 212.09 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c2d4427-ef49-4b4c-8369-67bf89831603")
-	)
-	(wire
-		(pts
 			(xy 34.29 143.51) (xy 36.83 143.51)
 		)
 		(stroke
@@ -6018,16 +5664,6 @@
 			(type default)
 		)
 		(uuid "9c5c6330-669d-4d2c-88de-53c519ca76c6")
-	)
-	(wire
-		(pts
-			(xy 143.51 67.31) (xy 143.51 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ca7f5cf-d641-4eb3-994e-afafe9800fd6")
 	)
 	(wire
 		(pts
@@ -6041,17 +5677,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 41.91) (xy 157.48 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ceb52f0-af79-4cf9-b41e-d9aa323914be")
-	)
-	(wire
-		(pts
-			(xy 124.46 186.69) (xy 116.84 186.69)
+			(xy 161.29 186.69) (xy 153.67 186.69)
 		)
 		(stroke
 			(width 0)
@@ -6061,23 +5687,13 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 191.77) (xy 72.39 191.77)
+			(xy 118.11 191.77) (xy 110.49 191.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9f41bbce-74b2-47ab-9961-1dbf17fb94ed")
-	)
-	(wire
-		(pts
-			(xy 129.54 101.6) (xy 132.08 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fc1b92b-91c3-4b0f-97ab-cc7bd00f5f00")
 	)
 	(wire
 		(pts
@@ -6111,7 +5727,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 41.91) (xy 85.09 45.72)
+			(xy 132.08 43.18) (xy 132.08 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6161,27 +5777,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 55.88) (xy 201.93 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5b91ee3-13b4-418a-adb0-e99c4dfa4913")
-	)
-	(wire
-		(pts
-			(xy 143.51 71.12) (xy 162.56 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5d4b856-c56f-414b-879f-741767c8f4e6")
-	)
-	(wire
-		(pts
-			(xy 104.14 30.48) (xy 113.03 30.48)
+			(xy 132.08 29.21) (xy 138.43 29.21)
 		)
 		(stroke
 			(width 0)
@@ -6191,7 +5787,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 36.83) (xy 35.56 35.56)
+			(xy 53.34 49.53) (xy 53.34 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6221,16 +5817,6 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 45.72) (xy 220.98 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7d42123-18d3-499a-be27-3bddc22e32e4")
-	)
-	(wire
-		(pts
 			(xy 34.29 120.65) (xy 34.29 119.38)
 		)
 		(stroke
@@ -6241,7 +5827,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 39.37) (xy 80.01 39.37)
+			(xy 123.19 40.64) (xy 127 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6261,17 +5847,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 45.72) (xy 162.56 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad68332a-4c7f-4176-b382-423491fc9fe1")
-	)
-	(wire
-		(pts
-			(xy 45.72 181.61) (xy 53.34 181.61)
+			(xy 83.82 181.61) (xy 91.44 181.61)
 		)
 		(stroke
 			(width 0)
@@ -6291,7 +5867,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 50.8) (xy 85.09 50.8)
+			(xy 135.89 52.07) (xy 132.08 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6332,7 +5908,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 27.94) (xy 52.07 25.4)
+			(xy 69.85 40.64) (xy 69.85 38.1)
 		)
 		(stroke
 			(width 0)
@@ -6342,17 +5918,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 55.88) (xy 220.98 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5e4457c-335f-412c-b925-95671e7c0fe3")
-	)
-	(wire
-		(pts
-			(xy 114.3 118.11) (xy 118.11 118.11)
+			(xy 113.03 118.11) (xy 118.11 118.11)
 		)
 		(stroke
 			(width 0)
@@ -6362,17 +5928,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 99.06) (xy 212.09 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7d79045-6ca3-4831-b614-8fc19dc379c2")
-	)
-	(wire
-		(pts
-			(xy 143.51 22.86) (xy 143.51 30.48)
+			(xy 168.91 24.13) (xy 168.91 29.21)
 		)
 		(stroke
 			(width 0)
@@ -6392,16 +5948,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.815 109.855) (xy 43.815 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbe37de3-e746-4385-acec-4ed17677819b")
-	)
-	(wire
-		(pts
 			(xy 53.34 138.43) (xy 53.34 146.05)
 		)
 		(stroke
@@ -6412,7 +5958,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 30.48) (xy 237.49 30.48)
+			(xy 220.98 31.75) (xy 223.52 31.75)
 		)
 		(stroke
 			(width 0)
@@ -6432,7 +5978,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 62.23) (xy 38.1 62.23)
+			(xy 34.29 185.42) (xy 30.48 185.42)
 		)
 		(stroke
 			(width 0)
@@ -6462,7 +6008,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 97.79) (xy 224.79 100.33)
+			(xy 229.87 95.25) (xy 229.87 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6482,23 +6028,13 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 105.41) (xy 212.09 99.06)
+			(xy 212.09 95.25) (xy 212.09 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c09834aa-c8c4-41ce-9363-0d9ee6d0cdbe")
-	)
-	(wire
-		(pts
-			(xy 85.09 73.66) (xy 85.09 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1de60ad-c081-4334-9251-964119c42874")
 	)
 	(wire
 		(pts
@@ -6522,7 +6058,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 30.48) (xy 120.65 31.75)
+			(xy 146.05 29.21) (xy 146.05 30.48)
 		)
 		(stroke
 			(width 0)
@@ -6562,7 +6098,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 25.4) (xy 19.05 27.94)
+			(xy 36.83 38.1) (xy 36.83 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6592,7 +6128,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 30.48) (xy 170.18 30.48)
+			(xy 168.91 29.21) (xy 177.8 29.21)
 		)
 		(stroke
 			(width 0)
@@ -6602,7 +6138,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 179.07) (xy 80.01 179.07)
+			(xy 101.6 179.07) (xy 118.11 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6632,7 +6168,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 55.88) (xy 38.1 55.88)
+			(xy 34.29 179.07) (xy 30.48 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6712,16 +6248,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 69.85) (xy 162.56 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3263a83-f84b-486a-88bc-97df3ccdc448")
-	)
-	(wire
-		(pts
 			(xy 152.4 139.7) (xy 152.4 147.32)
 		)
 		(stroke
@@ -6732,7 +6258,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 25.4) (xy 35.56 25.4)
+			(xy 69.85 38.1) (xy 53.34 38.1)
 		)
 		(stroke
 			(width 0)
@@ -6742,7 +6268,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 179.07) (xy 104.14 177.8)
+			(xy 142.24 179.07) (xy 142.24 177.8)
 		)
 		(stroke
 			(width 0)
@@ -6772,7 +6298,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 30.48) (xy 237.49 31.75)
+			(xy 223.52 31.75) (xy 223.52 33.02)
 		)
 		(stroke
 			(width 0)
@@ -6782,7 +6308,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 179.07) (xy 116.84 179.07)
+			(xy 161.29 179.07) (xy 153.67 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6812,7 +6338,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 190.5) (xy 53.34 187.96)
+			(xy 91.44 190.5) (xy 91.44 187.96)
 		)
 		(stroke
 			(width 0)
@@ -6822,27 +6348,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 44.45) (xy 220.98 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da0a515e-82b8-4432-9180-ff308c902267")
-	)
-	(wire
-		(pts
-			(xy 220.98 30.48) (xy 220.98 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da1adc60-3d95-41a1-aed3-2b811a87d2d4")
-	)
-	(wire
-		(pts
-			(xy 118.11 30.48) (xy 120.65 30.48)
+			(xy 143.51 29.21) (xy 146.05 29.21)
 		)
 		(stroke
 			(width 0)
@@ -6872,7 +6378,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 39.37) (xy 138.43 39.37)
+			(xy 160.02 40.64) (xy 163.83 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6882,7 +6388,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 50.8) (xy 143.51 50.8)
+			(xy 162.56 52.07) (xy 168.91 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6912,16 +6418,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 181.61) (xy 154.94 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e280e80e-dc17-4f0c-9f38-da9e718d35e5")
-	)
-	(wire
-		(pts
 			(xy 236.22 154.94) (xy 241.3 154.94)
 		)
 		(stroke
@@ -6942,7 +6438,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 100.33) (xy 215.9 100.33)
+			(xy 214.63 97.79) (xy 220.98 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6972,17 +6468,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 67.31) (xy 201.93 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb5acd38-3283-439e-a77d-40d9b8228b0e")
-	)
-	(wire
-		(pts
-			(xy 114.3 118.11) (xy 114.3 116.84)
+			(xy 113.03 118.11) (xy 113.03 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7032,7 +6518,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 30.48) (xy 201.93 31.75)
+			(xy 205.74 31.75) (xy 205.74 33.02)
 		)
 		(stroke
 			(width 0)
@@ -7042,7 +6528,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 184.15) (xy 80.01 184.15)
+			(xy 116.84 184.15) (xy 118.11 184.15)
 		)
 		(stroke
 			(width 0)
@@ -7072,6 +6558,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 101.6) (xy 132.08 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f40b38c6-f4fd-4e71-987f-5dabc62794a7")
+	)
+	(wire
+		(pts
 			(xy 66.675 110.49) (xy 66.675 108.585)
 		)
 		(stroke
@@ -7082,7 +6578,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 67.31) (xy 85.09 71.12)
+			(xy 132.08 68.58) (xy 132.08 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7092,7 +6588,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 189.23) (xy 116.84 189.23)
+			(xy 161.29 189.23) (xy 153.67 189.23)
 		)
 		(stroke
 			(width 0)
@@ -7102,23 +6598,13 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 22.86) (xy 85.09 30.48)
+			(xy 132.08 24.13) (xy 132.08 29.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f734a145-99ee-417c-95c9-7ea322f5e03a")
-	)
-	(wire
-		(pts
-			(xy 143.51 30.48) (xy 143.51 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7df082d-5605-42d6-a20a-811a4539725a")
 	)
 	(wire
 		(pts
@@ -7129,26 +6615,6 @@
 			(type default)
 		)
 		(uuid "f82761d8-577d-4809-9b57-59668cdd3415")
-	)
-	(wire
-		(pts
-			(xy 85.09 55.88) (xy 104.14 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9edfdc6-f095-44fb-98d7-bc11cb9ad033")
-	)
-	(wire
-		(pts
-			(xy 214.63 67.31) (xy 215.9 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbe740a2-9a00-47d0-b781-fcab3ec7e214")
 	)
 	(wire
 		(pts
@@ -7172,7 +6638,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 50.8) (xy 85.09 55.88)
+			(xy 132.08 52.07) (xy 132.08 58.42)
 		)
 		(stroke
 			(width 0)
@@ -7192,7 +6658,7 @@
 		(uuid "176feb63-0a17-46e6-ac9a-49bde4bc60f1")
 	)
 	(label "LIN_B"
-		(at 72.39 186.69 180)
+		(at 110.49 186.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7202,7 +6668,7 @@
 		(uuid "4e2696d3-80b1-4f89-9516-c9e20fdf96bc")
 	)
 	(label "LIN_C"
-		(at 72.39 181.61 180)
+		(at 110.49 181.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7222,7 +6688,7 @@
 		(uuid "5cfbf9e4-7060-4fb7-b60b-fc6a4b7367d7")
 	)
 	(label "LIN_A"
-		(at 116.84 181.61 0)
+		(at 153.67 181.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7252,7 +6718,7 @@
 		(uuid "7c55bd47-7243-46b9-ae8f-2d47f1ee36d4")
 	)
 	(label "HIN_B"
-		(at 78.74 189.23 180)
+		(at 116.84 189.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7262,7 +6728,7 @@
 		(uuid "7d1ff816-7b30-4cdb-a3ce-85f0a5f79d2e")
 	)
 	(label "HIN_A"
-		(at 116.84 179.07 0)
+		(at 153.67 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7272,7 +6738,7 @@
 		(uuid "98c77a03-8fc4-4acf-bb2a-18d0903c0d12")
 	)
 	(label "LIN_B"
-		(at 116.84 186.69 0)
+		(at 153.67 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7282,7 +6748,7 @@
 		(uuid "9f0d7d0c-53c6-4e18-92a1-823c52e57c0f")
 	)
 	(label "LIN_C"
-		(at 116.84 191.77 0)
+		(at 153.67 191.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7292,7 +6758,7 @@
 		(uuid "9f37fd26-bf8f-488f-9c7a-de32e4388d2f")
 	)
 	(label "HIN_A"
-		(at 78.74 194.31 180)
+		(at 116.84 194.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7312,7 +6778,7 @@
 		(uuid "aba4ac44-f9d1-44ca-820f-a5a624852dd8")
 	)
 	(label "HIN_C"
-		(at 78.74 184.15 180)
+		(at 116.84 184.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7332,7 +6798,7 @@
 		(uuid "dc028d5a-d291-4fd2-9bd2-b350828eb378")
 	)
 	(label "HIN_C"
-		(at 116.84 189.23 0)
+		(at 153.67 189.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7342,7 +6808,7 @@
 		(uuid "ef47bc55-c87c-4760-bfdf-124548b0b388")
 	)
 	(label "LIN_A"
-		(at 72.39 191.77 180)
+		(at 110.49 191.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7352,7 +6818,7 @@
 		(uuid "fedeebc4-874d-4c9c-9b3d-adfd2d800051")
 	)
 	(label "HIN_B"
-		(at 116.84 184.15 0)
+		(at 153.67 184.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7360,28 +6826,6 @@
 			(justify left bottom)
 		)
 		(uuid "ff732ae0-8ca3-4aa4-a665-d06c19a356bc")
-	)
-	(global_label "LO_A"
-		(shape input)
-		(at 95.25 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "04e33d54-039a-4567-a080-af71d8c01005")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.85 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "MC"
 		(shape input)
@@ -7427,31 +6871,9 @@
 			)
 		)
 	)
-	(global_label "HO_B"
-		(shape input)
-		(at 147.32 184.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "12068ae9-1228-4c77-afec-152f357d5210")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.4362 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "LO_A"
 		(shape input)
-		(at 74.93 64.77 180)
+		(at 121.92 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7461,73 +6883,7 @@
 		)
 		(uuid "1bad74aa-5585-444f-ab63-be20b7c3bf90")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 67.53 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LO_A"
-		(shape input)
-		(at 154.94 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1f5f78fd-687f-4ba7-8748-f1622ae5e2e5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.54 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HO_B"
-		(shape input)
-		(at 156.21 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "23e2cfa6-9c2e-4f48-984e-77f017e77096")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.3262 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HO_A"
-		(shape input)
-		(at 95.25 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "274441b0-f896-45ed-a317-84462bc7bd4e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.5476 41.91 0)
+			(at 114.52 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7561,7 +6917,7 @@
 	)
 	(global_label "LO_B"
 		(shape input)
-		(at 134.62 64.77 180)
+		(at 160.02 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7571,29 +6927,7 @@
 		)
 		(uuid "362a3607-7cd7-4b82-b359-1d0bb1afb909")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.0386 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HO_C"
-		(shape input)
-		(at 214.63 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3b4ff7b6-4925-42be-888e-0238953d8e7a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.7462 41.91 0)
+			(at 152.4386 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7605,7 +6939,7 @@
 	)
 	(global_label "MC"
 		(shape input)
-		(at 195.58 50.8 180)
+		(at 199.39 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7615,7 +6949,7 @@
 		)
 		(uuid "48c7eacd-1f25-4cd5-ba99-2046904a0bcd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 189.8734 50.8 0)
+			(at 193.6834 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7647,9 +6981,9 @@
 			)
 		)
 	)
-	(global_label "HO_B"
+	(global_label "HO_C"
 		(shape input)
-		(at 134.62 39.37 180)
+		(at 220.98 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7657,9 +6991,9 @@
 			)
 			(justify right)
 		)
-		(uuid "5aaeaf33-18aa-46fa-8d6f-91056f349a59")
+		(uuid "4a6dcf8a-2092-4239-97c0-3a6503451e04")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.7362 39.37 0)
+			(at 213.0962 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7669,9 +7003,9 @@
 			)
 		)
 	)
-	(global_label "HO_A"
+	(global_label "HO_B"
 		(shape input)
-		(at 147.32 179.07 180)
+		(at 160.02 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7679,9 +7013,9 @@
 			)
 			(justify right)
 		)
-		(uuid "61533b62-38de-4b32-bef9-222575044190")
+		(uuid "5aaeaf33-18aa-46fa-8d6f-91056f349a59")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.6176 179.07 0)
+			(at 152.1362 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7735,28 +7069,6 @@
 			)
 		)
 	)
-	(global_label "HO_C"
-		(shape input)
-		(at 207.01 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7372f5e3-1202-4737-b79b-fa23150f21a9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.1262 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "LO_C"
 		(shape input)
 		(at 252.73 96.52 0)
@@ -7803,7 +7115,7 @@
 	)
 	(global_label "MB"
 		(shape input)
-		(at 114.3 109.22 90)
+		(at 113.03 109.22 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7813,7 +7125,7 @@
 		)
 		(uuid "875ad6ab-96fd-44db-bb0c-b5655e74268a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.3 103.5134 90)
+			(at 113.03 103.5134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7823,53 +7135,9 @@
 			)
 		)
 	)
-	(global_label "LO_B"
-		(shape input)
-		(at 156.21 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8a3e4222-5d41-4bca-8ccd-b97a5d7ed4a6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.6286 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LO_B"
-		(shape input)
-		(at 154.94 186.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8aa07f47-c370-48f0-91dd-eec3b5655b89")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.3586 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "MA"
 		(shape input)
-		(at 78.74 50.8 180)
+		(at 125.73 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7879,7 +7147,7 @@
 		)
 		(uuid "8d86376d-5def-4167-a6f9-0aa26cc05978")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.2148 50.8 0)
+			(at 120.2048 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7891,7 +7159,7 @@
 	)
 	(global_label "HO_A"
 		(shape input)
-		(at 76.2 39.37 180)
+		(at 123.19 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7901,29 +7169,7 @@
 		)
 		(uuid "8d896898-7782-47f4-9654-cd0dbc50706e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 68.4976 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HO_C"
-		(shape input)
-		(at 147.32 189.23 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9298a01b-93c7-4ef0-b868-501288bc9f7b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.4362 189.23 0)
+			(at 115.4876 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7935,7 +7181,7 @@
 	)
 	(global_label "LO_C"
 		(shape input)
-		(at 193.04 64.77 180)
+		(at 196.85 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7945,7 +7191,7 @@
 		)
 		(uuid "99eded42-d3ec-40bd-a979-06bf490363c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 185.4586 64.77 0)
+			(at 189.2686 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7957,7 +7203,7 @@
 	)
 	(global_label "MC"
 		(shape input)
-		(at 224.79 97.79 90)
+		(at 229.87 95.25 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7967,7 +7213,7 @@
 		)
 		(uuid "9e0e590f-a614-4408-aa9f-65626355967a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.79 92.0834 90)
+			(at 229.87 89.5434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7979,7 +7225,7 @@
 	)
 	(global_label "MB"
 		(shape input)
-		(at 137.16 50.8 180)
+		(at 162.56 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7989,7 +7235,7 @@
 		)
 		(uuid "a59e323b-c014-4620-9e90-0921d45c2567")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.4534 50.8 0)
+			(at 156.8534 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8001,7 +7247,7 @@
 	)
 	(global_label "MB"
 		(shape input)
-		(at 140.97 101.6 0)
+		(at 142.24 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8011,7 +7257,7 @@
 		)
 		(uuid "a803d603-d3f3-4d80-af4f-0b13d0a202dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.6766 101.6 0)
+			(at 147.9466 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8023,7 +7269,7 @@
 	)
 	(global_label "HO_B"
 		(shape input)
-		(at 121.92 101.6 180)
+		(at 132.08 101.6 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8031,9 +7277,9 @@
 			)
 			(justify right)
 		)
-		(uuid "b77c195f-7c1f-4a89-b096-250d93f417c4")
+		(uuid "be5dd846-3caf-422b-b233-7dc9182f2346")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.0362 101.6 0)
+			(at 132.08 109.4838 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8067,7 +7313,7 @@
 	)
 	(global_label "HO_C"
 		(shape input)
-		(at 193.04 39.37 180)
+		(at 196.85 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8077,51 +7323,7 @@
 		)
 		(uuid "d3d0bd8b-5d52-4400-a8e4-290bb8112b7c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 185.1562 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LO_C"
-		(shape input)
-		(at 154.94 191.77 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d724c8fb-9215-49e2-a867-f948d9fd44be")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.3586 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LO_C"
-		(shape input)
-		(at 214.63 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e41fe5a2-0c25-4ec0-8d3e-258748f2b6be")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.0486 67.31 0)
+			(at 188.9662 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8180,7 +7382,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 236.22 90.17 0)
 			(effects
 				(font
@@ -8198,7 +7400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 236.22 90.17 0)
 			(effects
 				(font
@@ -8289,7 +7491,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 38.1 190.5 0)
+		(at 76.2 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8298,7 +7500,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c97a021-65cc-42d9-9a8f-5facdaf99cb1")
 		(property "Reference" "#PWR036"
-			(at 38.1 196.85 0)
+			(at 76.2 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8307,7 +7509,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 38.1 195.58 0)
+			(at 76.2 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8316,7 +7518,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8325,7 +7527,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 38.1 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8334,7 +7536,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 38.1 190.5 0)
+			(at 76.2 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8489,221 +7691,8 @@
 		)
 	)
 	(symbol
-		(lib_id "IRFZ44N:IRFZ44N")
-		(at 160.02 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "12534c00-6baa-4f93-b809-afb3797aa2fe")
-		(property "Reference" "Q6"
-			(at 165.354 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 165.354 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Infineon Technologies"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-3 Infineon"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "09/21/10"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "IRFZ44N"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Infineon"
-			(at 160.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "7694457e-774f-4326-80d9-8f60e9178812")
-		)
-		(pin "1"
-			(uuid "c6ee1702-d6f7-4a4a-83d3-16a79df25cea")
-		)
-		(pin "2"
-			(uuid "a9e2c70d-5187-4d68-b1e8-b4438149a8f8")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
-		(at 53.34 190.5 0)
+		(at 91.44 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8712,7 +7701,7 @@
 		(fields_autoplaced yes)
 		(uuid "14d167f3-93d0-4ae5-ba09-3f4f7070ea61")
 		(property "Reference" "#PWR038"
-			(at 53.34 196.85 0)
+			(at 91.44 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8721,7 +7710,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 53.34 195.58 0)
+			(at 91.44 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8730,7 +7719,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 190.5 0)
+			(at 91.44 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8739,7 +7728,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 190.5 0)
+			(at 91.44 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8748,7 +7737,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 53.34 190.5 0)
+			(at 91.44 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8770,7 +7759,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 181.61 0)
+		(at 101.6 181.61 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8780,7 +7769,7 @@
 		(fields_autoplaced yes)
 		(uuid "16328997-9eaa-4050-928c-9b134e0b5243")
 		(property "Reference" "#PWR034"
-			(at 63.5 187.96 0)
+			(at 101.6 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8789,7 +7778,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 186.69 0)
+			(at 101.6 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8798,7 +7787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 181.61 0)
+			(at 101.6 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8807,7 +7796,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 181.61 0)
+			(at 101.6 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8816,7 +7805,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 181.61 0)
+			(at 101.6 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8838,7 +7827,7 @@
 	)
 	(symbol
 		(lib_id "IRFZ44N:IRFZ44N")
-		(at 199.39 36.83 0)
+		(at 203.2 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8846,7 +7835,7 @@
 		(dnp no)
 		(uuid "16f59178-fc8a-4c3e-ae48-2d5ec3120d7b")
 		(property "Reference" "Q9"
-			(at 204.724 35.56 0)
+			(at 208.534 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8855,7 +7844,7 @@
 			)
 		)
 		(property "Value" "IRFZ44N"
-			(at 204.724 38.1 0)
+			(at 208.534 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8864,7 +7853,7 @@
 			)
 		)
 		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8874,7 +7863,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8883,7 +7872,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8892,7 +7881,7 @@
 			)
 		)
 		(property "MF" "Infineon Technologies"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8902,7 +7891,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8912,7 +7901,7 @@
 			)
 		)
 		(property "Package" "TO-220-3 Infineon"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,7 +7911,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8932,7 +7921,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8942,7 +7931,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8952,7 +7941,7 @@
 			)
 		)
 		(property "PARTREV" "09/21/10"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8962,7 +7951,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8972,7 +7961,7 @@
 			)
 		)
 		(property "MP" "IRFZ44N"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8982,7 +7971,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8992,7 +7981,7 @@
 			)
 		)
 		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9002,7 +7991,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9012,7 +8001,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9022,7 +8011,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Infineon"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9032,7 +8021,7 @@
 			)
 		)
 		(property "Sim.Device" "NMOS"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9041,7 +8030,7 @@
 			)
 		)
 		(property "Sim.Type" "VDMOS"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9050,7 +8039,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 199.39 36.83 0)
+			(at 203.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9348,7 +8337,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 237.49 31.75 0)
+		(at 223.52 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9356,7 +8345,7 @@
 		(dnp no)
 		(uuid "289b2c8a-d42b-48f5-9a17-23e23e90d1da")
 		(property "Reference" "#PWR04"
-			(at 237.49 38.1 0)
+			(at 223.52 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9365,7 +8354,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 237.49 35.814 0)
+			(at 223.52 37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9373,7 +8362,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 31.75 0)
+			(at 223.52 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9382,7 +8371,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 31.75 0)
+			(at 223.52 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9391,7 +8380,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 31.75 0)
+			(at 223.52 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9636,221 +8625,8 @@
 		)
 	)
 	(symbol
-		(lib_id "IRFZ44N:IRFZ44N")
-		(at 218.44 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3041d55a-9a58-4b8e-ad97-85456910064b")
-		(property "Reference" "Q12"
-			(at 223.774 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 223.774 65.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Infineon Technologies"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-3 Infineon"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "09/21/10"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "IRFZ44N"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Infineon"
-			(at 218.44 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "16d0106c-6993-4623-84b1-28d79a04da87")
-		)
-		(pin "1"
-			(uuid "cc047dc4-e829-4dcd-8336-a36116eae2a8")
-		)
-		(pin "2"
-			(uuid "8b0a9b31-686e-466e-93b4-b9312635c9b9")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "Q12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
-		(at 24.13 179.07 0)
+		(at 62.23 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9858,7 +8634,7 @@
 		(dnp no)
 		(uuid "304245c8-5f01-41da-a162-612f4e243a2c")
 		(property "Reference" "#PWR040"
-			(at 24.13 182.88 0)
+			(at 62.23 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9867,7 +8643,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 23.876 175.26 0)
+			(at 61.976 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9875,7 +8651,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 179.07 0)
+			(at 62.23 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9884,7 +8660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 179.07 0)
+			(at 62.23 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9893,7 +8669,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 24.13 179.07 0)
+			(at 62.23 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10000,7 +8776,7 @@
 	)
 	(symbol
 		(lib_id "power:LINE")
-		(at 147.32 50.8 270)
+		(at 172.72 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10009,7 +8785,7 @@
 		(fields_autoplaced yes)
 		(uuid "33455f32-4e63-4235-8128-0577fd6588a6")
 		(property "Reference" "#PWR03"
-			(at 143.51 50.8 0)
+			(at 168.91 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10018,7 +8794,7 @@
 			)
 		)
 		(property "Value" "B"
-			(at 151.13 50.7999 90)
+			(at 176.53 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10027,7 +8803,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 50.8 0)
+			(at 172.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10036,7 +8812,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 50.8 0)
+			(at 172.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10045,7 +8821,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"LINE\""
-			(at 147.32 50.8 0)
+			(at 172.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10220,7 +8996,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 201.93 73.66 0)
+		(at 205.74 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10228,7 +9004,7 @@
 		(dnp no)
 		(uuid "356fdf14-1204-4e9a-b3a3-f51033c68ccd")
 		(property "Reference" "#PWR013"
-			(at 201.93 80.01 0)
+			(at 205.74 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10237,7 +9013,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 201.93 77.724 0)
+			(at 205.74 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10245,7 +9021,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 73.66 0)
+			(at 205.74 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10254,7 +9030,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 73.66 0)
+			(at 205.74 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10263,7 +9039,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.93 73.66 0)
+			(at 205.74 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10351,7 +9127,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 53.34 180.34 0)
+		(at 91.44 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10360,7 +9136,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b5b2cb9-4f14-4405-9281-10ec9605b8c3")
 		(property "Reference" "#PWR039"
-			(at 53.34 184.15 0)
+			(at 91.44 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10369,7 +9145,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 53.34 175.26 0)
+			(at 91.44 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10377,7 +9153,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 180.34 0)
+			(at 91.44 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10386,7 +9162,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 180.34 0)
+			(at 91.44 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10395,7 +9171,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 53.34 180.34 0)
+			(at 91.44 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10505,7 +9281,7 @@
 	)
 	(symbol
 		(lib_id "IRFZ44N:IRFZ44N")
-		(at 82.55 62.23 0)
+		(at 129.54 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10513,7 +9289,7 @@
 		(dnp no)
 		(uuid "3da73f4e-3d77-4480-8179-dbc74df5ed0f")
 		(property "Reference" "Q3"
-			(at 87.884 60.96 0)
+			(at 134.874 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10522,7 +9298,7 @@
 			)
 		)
 		(property "Value" "IRFZ44N"
-			(at 87.884 63.5 0)
+			(at 134.874 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10531,7 +9307,7 @@
 			)
 		)
 		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10541,7 +9317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10550,7 +9326,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10559,7 +9335,7 @@
 			)
 		)
 		(property "MF" "Infineon Technologies"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10569,7 +9345,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10579,7 +9355,7 @@
 			)
 		)
 		(property "Package" "TO-220-3 Infineon"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10589,7 +9365,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10599,7 +9375,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10609,7 +9385,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10619,7 +9395,7 @@
 			)
 		)
 		(property "PARTREV" "09/21/10"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10629,7 +9405,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10639,7 +9415,7 @@
 			)
 		)
 		(property "MP" "IRFZ44N"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10649,7 +9425,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10659,7 +9435,7 @@
 			)
 		)
 		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10669,7 +9445,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10679,7 +9455,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10689,7 +9465,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Infineon"
-			(at 82.55 62.23 0)
+			(at 129.54 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10743,7 +9519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 66.675 93.345 0)
 			(effects
 				(font
@@ -10761,7 +9537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 66.675 93.345 0)
 			(effects
 				(font
@@ -10787,7 +9563,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 219.71 100.33 90)
+		(at 224.79 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10795,7 +9571,7 @@
 		(dnp no)
 		(uuid "3f8d8a86-3192-47e0-a54c-b034385ab2f4")
 		(property "Reference" "R18"
-			(at 219.71 97.282 90)
+			(at 224.79 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10803,7 +9579,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 219.71 94.742 90)
+			(at 224.79 92.202 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10811,7 +9587,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 219.964 99.314 90)
+			(at 225.044 96.774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10820,7 +9596,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 100.33 0)
+			(at 224.79 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10829,7 +9605,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 219.71 100.33 0)
+			(at 224.79 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10854,16 +9630,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 115.57 30.48 270)
+		(at 140.97 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "447055bf-a251-454c-9b88-e916d18b3cb8")
 		(property "Reference" "C1"
-			(at 115.5636 24.13 90)
+			(at 140.716 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10871,7 +9646,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 115.5636 26.67 90)
+			(at 140.97 25.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,7 +9654,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 115.57 30.48 0)
+			(at 140.97 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10888,7 +9663,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 30.48 0)
+			(at 140.97 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10897,7 +9672,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 115.57 30.48 0)
+			(at 140.97 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10998,7 +9773,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:LM7805_TO220")
-		(at 38.1 181.61 0)
+		(at 76.2 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11007,7 +9782,7 @@
 		(fields_autoplaced yes)
 		(uuid "474f672f-74f5-4ac8-93c9-4f3ad1ab8539")
 		(property "Reference" "U4"
-			(at 38.1 175.26 0)
+			(at 76.2 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11015,7 +9790,7 @@
 			)
 		)
 		(property "Value" "LM7805_TO220"
-			(at 38.1 177.8 0)
+			(at 76.2 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11023,7 +9798,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 38.1 175.895 0)
+			(at 76.2 175.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11033,7 +9808,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF"
-			(at 38.1 182.88 0)
+			(at 76.2 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11042,7 +9817,7 @@
 			)
 		)
 		(property "Description" "Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"
-			(at 38.1 181.61 0)
+			(at 76.2 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11070,7 +9845,7 @@
 	)
 	(symbol
 		(lib_id "IRFZ44N:IRFZ44N")
-		(at 82.55 36.83 0)
+		(at 129.54 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11078,7 +9853,7 @@
 		(dnp no)
 		(uuid "47eb7217-c7e4-4f94-a229-98781f591875")
 		(property "Reference" "Q1"
-			(at 87.884 35.56 0)
+			(at 134.874 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11087,7 +9862,7 @@
 			)
 		)
 		(property "Value" "IRFZ44N"
-			(at 87.884 38.1 0)
+			(at 134.874 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,7 +9871,7 @@
 			)
 		)
 		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11106,7 +9881,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11115,7 +9890,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11124,7 +9899,7 @@
 			)
 		)
 		(property "MF" "Infineon Technologies"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11134,7 +9909,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11144,7 +9919,7 @@
 			)
 		)
 		(property "Package" "TO-220-3 Infineon"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11154,7 +9929,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11164,7 +9939,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11174,7 +9949,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11184,7 +9959,7 @@
 			)
 		)
 		(property "PARTREV" "09/21/10"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11194,7 +9969,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11204,7 +9979,7 @@
 			)
 		)
 		(property "MP" "IRFZ44N"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11214,7 +9989,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11224,7 +9999,7 @@
 			)
 		)
 		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11234,7 +10009,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11244,7 +10019,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11254,7 +10029,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Infineon"
-			(at 82.55 36.83 0)
+			(at 129.54 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11283,7 +10058,7 @@
 	)
 	(symbol
 		(lib_id "power:LINE")
-		(at 41.91 68.58 270)
+		(at 34.29 191.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11292,7 +10067,7 @@
 		(fields_autoplaced yes)
 		(uuid "4906a43e-c1ee-437d-aa29-c62474bcce71")
 		(property "Reference" "#PWR046"
-			(at 38.1 68.58 0)
+			(at 30.48 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11301,7 +10076,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 45.72 68.5799 90)
+			(at 38.1 191.7699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11310,7 +10085,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 68.58 0)
+			(at 34.29 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11319,7 +10094,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 68.58 0)
+			(at 34.29 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11328,7 +10103,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"LINE\""
-			(at 41.91 68.58 0)
+			(at 34.29 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11350,7 +10125,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 114.3 114.3 0)
+		(at 113.03 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11358,7 +10133,7 @@
 		(dnp no)
 		(uuid "4c4d83b6-590f-47e3-bc86-8fb3ad3d0e4f")
 		(property "Reference" "C10"
-			(at 107.188 114.808 0)
+			(at 104.648 114.808 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11367,7 +10142,7 @@
 			)
 		)
 		(property "Value" "6.8uF"
-			(at 107.188 112.776 0)
+			(at 104.648 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11376,7 +10151,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm"
-			(at 114.3 114.3 0)
+			(at 113.03 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11385,7 +10160,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 114.3 0)
+			(at 113.03 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11394,7 +10169,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 114.3 114.3 0)
+			(at 113.03 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11419,7 +10194,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x07_Odd_Even")
-		(at 85.09 186.69 0)
+		(at 123.19 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11428,7 +10203,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f9a5006-f3a1-4ca1-9ce3-48f10974e9ac")
 		(property "Reference" "J3"
-			(at 86.36 172.72 0)
+			(at 124.46 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11436,7 +10211,7 @@
 			)
 		)
 		(property "Value" "Logic_Conn"
-			(at 86.36 175.26 0)
+			(at 124.46 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11444,7 +10219,7 @@
 			)
 		)
 		(property "Footprint" "Connector_IDC:IDC-Header_2x07_P2.54mm_Vertical"
-			(at 85.09 186.69 0)
+			(at 123.19 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11453,7 +10228,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 186.69 0)
+			(at 123.19 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11462,7 +10237,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 85.09 186.69 0)
+			(at 123.19 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11523,7 +10298,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 33.02 62.23 0)
+		(at 25.4 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11531,7 +10306,7 @@
 		(dnp no)
 		(uuid "519a9d9b-41bc-420b-8c45-360745f5aad7")
 		(property "Reference" "J13"
-			(at 28.956 61.976 0)
+			(at 21.336 185.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11539,7 +10314,7 @@
 			)
 		)
 		(property "Value" "B"
-			(at 33.655 59.69 0)
+			(at 26.035 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11547,7 +10322,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Loop_D3.80mm_Drill2.0mm"
-			(at 33.02 62.23 0)
+			(at 25.4 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11556,7 +10331,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 62.23 0)
+			(at 25.4 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11565,7 +10340,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 33.02 62.23 0)
+			(at 25.4 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11587,7 +10362,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 36.83 0)
+		(at 53.34 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11595,7 +10370,7 @@
 		(dnp no)
 		(uuid "523999de-fd60-40eb-8553-263a1274afe9")
 		(property "Reference" "#PWR035"
-			(at 35.56 43.18 0)
+			(at 53.34 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11604,7 +10379,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 35.56 40.894 0)
+			(at 53.34 53.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11612,7 +10387,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 36.83 0)
+			(at 53.34 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11621,7 +10396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 36.83 0)
+			(at 53.34 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11630,7 +10405,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 36.83 0)
+			(at 53.34 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11652,7 +10427,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 72.39 0)
+		(at 168.91 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11660,7 +10435,7 @@
 		(dnp no)
 		(uuid "54df0783-1de5-457c-accd-2ce755e21b65")
 		(property "Reference" "#PWR012"
-			(at 143.51 78.74 0)
+			(at 168.91 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11669,7 +10444,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 76.454 0)
+			(at 168.91 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11677,7 +10452,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 72.39 0)
+			(at 168.91 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11686,7 +10461,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 72.39 0)
+			(at 168.91 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11695,7 +10470,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 72.39 0)
+			(at 168.91 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11917,246 +10692,6 @@
 		)
 	)
 	(symbol
-		(lib_id "IRFZ44N:IRFZ44N")
-		(at 101.6 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "65a59d44-3f92-4c70-9c33-fc1befea61e2")
-		(property "Reference" "Q4"
-			(at 106.934 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 106.934 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Infineon Technologies"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-3 Infineon"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "09/21/10"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "IRFZ44N"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Infineon"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "NMOS"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" "VDMOS"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 101.6 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "3b0be993-275c-4c82-8694-c007017d6fd9")
-		)
-		(pin "1"
-			(uuid "7329d48c-4eb4-45be-ae54-2afb5c4bbced")
-		)
-		(pin "2"
-			(uuid "eeea9853-a683-4ca6-b968-f4a38b7e10fb")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "Q4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 58.42 146.05 90)
 		(unit 1)
@@ -12225,7 +10760,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 33.02 68.58 0)
+		(at 25.4 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12233,7 +10768,7 @@
 		(dnp no)
 		(uuid "6691335f-0237-4ad0-9e53-9558a8a7a1e1")
 		(property "Reference" "J14"
-			(at 28.702 68.072 0)
+			(at 21.082 191.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12241,7 +10776,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 33.655 66.04 0)
+			(at 26.035 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12249,7 +10784,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Loop_D3.80mm_Drill2.0mm"
-			(at 33.02 68.58 0)
+			(at 25.4 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12258,7 +10793,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 68.58 0)
+			(at 25.4 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12267,7 +10802,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 33.02 68.58 0)
+			(at 25.4 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12375,7 +10910,7 @@
 	)
 	(symbol
 		(lib_id "power:LINE")
-		(at 205.74 50.8 270)
+		(at 209.55 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12384,7 +10919,7 @@
 		(fields_autoplaced yes)
 		(uuid "6866bee6-aa5b-4b78-a1c8-1c1a3ec5a246")
 		(property "Reference" "#PWR09"
-			(at 201.93 50.8 0)
+			(at 205.74 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12393,7 +10928,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 209.55 50.7999 90)
+			(at 213.36 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12402,7 +10937,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 50.8 0)
+			(at 209.55 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12411,7 +10946,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 50.8 0)
+			(at 209.55 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12420,7 +10955,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"LINE\""
-			(at 205.74 50.8 0)
+			(at 209.55 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12548,7 +11083,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 135.89 101.6 90)
+		(at 137.16 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12556,7 +11091,7 @@
 		(dnp no)
 		(uuid "6ea694e8-82d0-41bb-9770-da69986f29de")
 		(property "Reference" "R5"
-			(at 135.89 98.552 90)
+			(at 137.16 96.012 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12564,7 +11099,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 135.89 96.012 90)
+			(at 137.16 93.472 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12572,7 +11107,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 136.144 100.584 90)
+			(at 137.414 98.044 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12581,7 +11116,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 101.6 0)
+			(at 137.16 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12590,7 +11125,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 135.89 101.6 0)
+			(at 137.16 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12751,7 +11286,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 24.13 185.42 0)
+		(at 62.23 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12759,7 +11294,7 @@
 		(dnp no)
 		(uuid "78ce77b1-ccd8-4fee-b85a-a419d1901e00")
 		(property "Reference" "C13"
-			(at 17.78 184.15 0)
+			(at 55.88 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12768,7 +11303,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 16.256 186.69 0)
+			(at 54.356 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12777,7 +11312,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm"
-			(at 24.13 185.42 0)
+			(at 62.23 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12786,7 +11321,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 185.42 0)
+			(at 62.23 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12795,7 +11330,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 24.13 185.42 0)
+			(at 62.23 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12828,7 +11363,7 @@
 		(dnp no)
 		(uuid "79fcbc8d-75b3-4fc6-94ed-f2d1b2ca413a")
 		(property "Reference" "J1"
-			(at 50.8 92.0749 90)
+			(at 44.196 86.868 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12845,7 +11380,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 45.085 93.345 0)
 			(effects
 				(font
@@ -12889,7 +11424,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 53.34 185.42 0)
+		(at 91.44 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12897,7 +11432,7 @@
 		(dnp no)
 		(uuid "7bfa069b-bae6-4640-b3d4-88bdbd995dfe")
 		(property "Reference" "C14"
-			(at 45.974 184.15 0)
+			(at 84.074 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12906,7 +11441,7 @@
 			)
 		)
 		(property "Value" "0.33uF"
-			(at 44.45 186.69 0)
+			(at 82.55 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12915,7 +11450,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm"
-			(at 53.34 185.42 0)
+			(at 91.44 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12924,7 +11459,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 185.42 0)
+			(at 91.44 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12933,7 +11468,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 53.34 185.42 0)
+			(at 91.44 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13114,7 +11649,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small_US")
-		(at 35.56 30.48 0)
+		(at 53.34 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13123,7 +11658,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ee5d41f-3b43-42cc-be6d-6de954102c40")
 		(property "Reference" "C5"
-			(at 38.1 28.7781 0)
+			(at 55.88 41.4781 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13132,7 +11667,7 @@
 			)
 		)
 		(property "Value" "220uF 100V"
-			(at 38.1 31.3181 0)
+			(at 55.88 44.0181 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13141,7 +11676,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P2.50mm"
-			(at 35.56 30.48 0)
+			(at 53.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13150,7 +11685,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 35.56 30.48 0)
+			(at 53.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13159,7 +11694,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small US symbol"
-			(at 35.56 30.48 0)
+			(at 53.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13251,7 +11786,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 177.8 31.75 0)
+		(at 185.42 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13259,7 +11794,7 @@
 		(dnp no)
 		(uuid "8bc4de1b-7c2e-488c-b8c4-5c3ba4895cc9")
 		(property "Reference" "#PWR06"
-			(at 177.8 38.1 0)
+			(at 185.42 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13268,7 +11803,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 35.814 0)
+			(at 185.42 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13276,7 +11811,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 31.75 0)
+			(at 185.42 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13285,7 +11820,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 31.75 0)
+			(at 185.42 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13294,7 +11829,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 31.75 0)
+			(at 185.42 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14016,221 +12551,8 @@
 		)
 	)
 	(symbol
-		(lib_id "IRFZ44N:IRFZ44N")
-		(at 101.6 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a0fd3af8-8e7e-44a8-9e94-f989159c4157")
-		(property "Reference" "Q2"
-			(at 106.934 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 106.934 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Infineon Technologies"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-3 Infineon"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "09/21/10"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "IRFZ44N"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Infineon"
-			(at 101.6 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "614ae96b-6c51-4f09-92b7-7b154075da9c")
-		)
-		(pin "1"
-			(uuid "707f13e8-1f61-416d-9421-88a5282a9252")
-		)
-		(pin "2"
-			(uuid "acf38886-bc89-41c0-b55b-d39338821bbd")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
-		(at 24.13 190.5 0)
+		(at 62.23 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14239,7 +12561,7 @@
 		(fields_autoplaced yes)
 		(uuid "a13c67f7-8240-4004-813e-29dbf0b7cd64")
 		(property "Reference" "#PWR037"
-			(at 24.13 196.85 0)
+			(at 62.23 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14248,7 +12570,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 24.13 195.58 0)
+			(at 62.23 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14257,7 +12579,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 190.5 0)
+			(at 62.23 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14266,7 +12588,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 190.5 0)
+			(at 62.23 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14275,7 +12597,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 24.13 190.5 0)
+			(at 62.23 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14366,7 +12688,7 @@
 	)
 	(symbol
 		(lib_id "IRFZ44N:IRFZ44N")
-		(at 140.97 62.23 0)
+		(at 166.37 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14374,7 +12696,7 @@
 		(dnp no)
 		(uuid "a73c8ba9-480e-4810-9f1f-32c184588440")
 		(property "Reference" "Q7"
-			(at 146.304 60.96 0)
+			(at 171.704 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14383,7 +12705,7 @@
 			)
 		)
 		(property "Value" "IRFZ44N"
-			(at 146.304 63.5 0)
+			(at 171.704 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14392,7 +12714,7 @@
 			)
 		)
 		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14402,7 +12724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14411,7 +12733,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14420,7 +12742,7 @@
 			)
 		)
 		(property "MF" "Infineon Technologies"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14430,7 +12752,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14440,7 +12762,7 @@
 			)
 		)
 		(property "Package" "TO-220-3 Infineon"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14450,7 +12772,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14460,7 +12782,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14470,7 +12792,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14480,7 +12802,7 @@
 			)
 		)
 		(property "PARTREV" "09/21/10"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14490,7 +12812,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14500,7 +12822,7 @@
 			)
 		)
 		(property "MP" "IRFZ44N"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14510,7 +12832,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14520,7 +12842,7 @@
 			)
 		)
 		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14530,7 +12852,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14540,7 +12862,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14550,7 +12872,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Infineon"
-			(at 140.97 62.23 0)
+			(at 166.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14579,7 +12901,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 85.09 20.32 0)
+		(at 132.08 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14588,7 +12910,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8234ae6-fa47-4364-90de-8d76cc75e15e")
 		(property "Reference" "#PWR010"
-			(at 85.09 24.13 0)
+			(at 132.08 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14597,7 +12919,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 85.09 15.24 0)
+			(at 132.08 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14605,7 +12927,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 20.32 0)
+			(at 132.08 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14614,7 +12936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 20.32 0)
+			(at 132.08 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14623,7 +12945,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 85.09 20.32 0)
+			(at 132.08 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14711,7 +13033,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
-		(at 129.54 184.15 0)
+		(at 166.37 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14719,7 +13041,7 @@
 		(dnp no)
 		(uuid "ac9c1f47-42e7-40f6-9c4c-f682302219ce")
 		(property "Reference" "J4"
-			(at 132.08 184.1499 0)
+			(at 168.91 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14728,7 +13050,7 @@
 			)
 		)
 		(property "Value" "Logic_Test"
-			(at 124.46 175.26 0)
+			(at 161.29 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14737,7 +13059,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
-			(at 129.54 184.15 0)
+			(at 166.37 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14746,7 +13068,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 184.15 0)
+			(at 166.37 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14755,7 +13077,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 129.54 184.15 0)
+			(at 166.37 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15063,89 +13385,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x06")
-		(at 161.29 184.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b4db727f-cc1d-45ec-9e2b-b885e2c72268")
-		(property "Reference" "J5"
-			(at 163.83 184.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Gate_Test"
-			(at 156.718 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
-			(at 161.29 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 161.29 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 161.29 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "0bdbb882-3a9c-4683-9ec3-b99c91013013")
-		)
-		(pin "1"
-			(uuid "906d8863-8e42-434c-80f1-b41939e42f7c")
-		)
-		(pin "4"
-			(uuid "d13cf840-edd0-4e5d-a02d-a99dca299695")
-		)
-		(pin "6"
-			(uuid "96b54670-14a2-451d-917b-0b3e15707e88")
-		)
-		(pin "5"
-			(uuid "3f0858fe-0bc9-43d8-8ca1-8753425f30ff")
-		)
-		(pin "2"
-			(uuid "63c68442-72a5-46e2-b024-b7eefd25afb5")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Polarized_Small_US")
-		(at 52.07 30.48 0)
+		(at 69.85 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15154,7 +13395,7 @@
 		(fields_autoplaced yes)
 		(uuid "b50da3e8-7dab-4628-aa94-03360391b84c")
 		(property "Reference" "C6"
-			(at 54.61 28.7781 0)
+			(at 72.39 41.4781 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15163,7 +13404,7 @@
 			)
 		)
 		(property "Value" "220uF 100V"
-			(at 54.61 31.3181 0)
+			(at 72.39 44.0181 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15172,7 +13413,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P2.50mm"
-			(at 52.07 30.48 0)
+			(at 69.85 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15181,7 +13422,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 30.48 0)
+			(at 69.85 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15190,7 +13431,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small US symbol"
-			(at 52.07 30.48 0)
+			(at 69.85 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15215,7 +13456,7 @@
 	)
 	(symbol
 		(lib_id "power:LINE")
-		(at 88.9 50.8 270)
+		(at 135.89 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15224,7 +13465,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5c9b26e-ec88-4a9e-9fc2-ab8985ddc9b0")
 		(property "Reference" "#PWR01"
-			(at 85.09 50.8 0)
+			(at 132.08 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15233,7 +13474,7 @@
 			)
 		)
 		(property "Value" "A"
-			(at 92.71 50.7999 90)
+			(at 139.7 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15242,7 +13483,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 50.8 0)
+			(at 135.89 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15250,7 +13491,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 50.8 0)
+			(at 135.89 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15259,7 +13500,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"LINE\""
-			(at 88.9 50.8 0)
+			(at 135.89 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15346,7 +13587,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 127 92.71 90)
+		(at 129.54 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15354,7 +13595,7 @@
 		(dnp no)
 		(uuid "ba9c8e9d-85ca-4d49-862b-70cd225c841c")
 		(property "Reference" "J10"
-			(at 123.19 87.122 90)
+			(at 125.73 85.852 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15363,7 +13604,7 @@
 			)
 		)
 		(property "Value" "HOB_Enable"
-			(at 123.19 89.662 90)
+			(at 125.73 88.392 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15371,8 +13612,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 127 92.71 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 129.54 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15381,7 +13622,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 92.71 0)
+			(at 129.54 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15389,8 +13630,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 127 92.71 0)
+		(property "Description" ""
+			(at 129.54 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15415,7 +13656,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 104.14 177.8 0)
+		(at 142.24 177.8 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15424,7 +13665,7 @@
 		(dnp no)
 		(uuid "be5593b9-a527-4136-9335-801c2663a079")
 		(property "Reference" "#PWR033"
-			(at 104.14 181.61 0)
+			(at 142.24 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15433,7 +13674,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 104.14 173.99 0)
+			(at 142.24 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15441,7 +13682,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 177.8 0)
+			(at 142.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15450,7 +13691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 177.8 0)
+			(at 142.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15459,7 +13700,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 104.14 177.8 0)
+			(at 142.24 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15481,7 +13722,7 @@
 	)
 	(symbol
 		(lib_id "IRFZ44N:IRFZ44N")
-		(at 140.97 36.83 0)
+		(at 166.37 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15489,7 +13730,7 @@
 		(dnp no)
 		(uuid "c408ad36-b0fe-4f51-baa0-7ffc5e5da466")
 		(property "Reference" "Q5"
-			(at 146.304 35.56 0)
+			(at 171.704 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15498,7 +13739,7 @@
 			)
 		)
 		(property "Value" "IRFZ44N"
-			(at 146.304 38.1 0)
+			(at 171.704 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15507,7 +13748,7 @@
 			)
 		)
 		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15517,7 +13758,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15526,7 +13767,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15535,7 +13776,7 @@
 			)
 		)
 		(property "MF" "Infineon Technologies"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15545,7 +13786,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15555,7 +13796,7 @@
 			)
 		)
 		(property "Package" "TO-220-3 Infineon"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15565,7 +13806,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15575,7 +13816,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15585,7 +13826,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15595,7 +13836,7 @@
 			)
 		)
 		(property "PARTREV" "09/21/10"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15605,7 +13846,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15615,7 +13856,7 @@
 			)
 		)
 		(property "MP" "IRFZ44N"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15625,7 +13866,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15635,7 +13876,7 @@
 			)
 		)
 		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15645,7 +13886,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15655,7 +13896,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15665,7 +13906,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Infineon"
-			(at 140.97 36.83 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15694,7 +13935,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 85.09 73.66 0)
+		(at 132.08 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15702,7 +13943,7 @@
 		(dnp no)
 		(uuid "c5511fcf-f148-462e-bae0-7388bb76b2c5")
 		(property "Reference" "#PWR011"
-			(at 85.09 80.01 0)
+			(at 132.08 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15711,7 +13952,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 85.09 77.724 0)
+			(at 132.08 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15719,7 +13960,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 73.66 0)
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15728,7 +13969,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 73.66 0)
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15737,7 +13978,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 85.09 73.66 0)
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15759,7 +14000,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 120.65 31.75 0)
+		(at 146.05 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15767,7 +14008,7 @@
 		(dnp no)
 		(uuid "c55c0109-62aa-4964-a3c1-cb281e340bbb")
 		(property "Reference" "#PWR02"
-			(at 120.65 38.1 0)
+			(at 146.05 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15776,7 +14017,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 35.814 0)
+			(at 146.05 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15784,7 +14025,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 31.75 0)
+			(at 146.05 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15793,7 +14034,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 31.75 0)
+			(at 146.05 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15802,7 +14043,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 31.75 0)
+			(at 146.05 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15958,7 +14199,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 33.02 55.88 0)
+		(at 25.4 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15966,7 +14207,7 @@
 		(dnp no)
 		(uuid "ca35e8d8-bfc8-4eef-b738-1a5647c60d29")
 		(property "Reference" "J12"
-			(at 28.448 55.88 0)
+			(at 20.828 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15974,7 +14215,7 @@
 			)
 		)
 		(property "Value" "A"
-			(at 33.655 53.34 0)
+			(at 26.035 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15982,7 +14223,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Loop_D3.80mm_Drill2.0mm"
-			(at 33.02 55.88 0)
+			(at 25.4 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15991,7 +14232,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 55.88 0)
+			(at 25.4 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16000,7 +14241,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 33.02 55.88 0)
+			(at 25.4 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16022,7 +14263,7 @@
 	)
 	(symbol
 		(lib_id "power:LINE")
-		(at 41.91 55.88 270)
+		(at 34.29 179.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16031,7 +14272,7 @@
 		(fields_autoplaced yes)
 		(uuid "cbc998c1-0943-4c01-80e2-f91de4f2ef97")
 		(property "Reference" "#PWR044"
-			(at 38.1 55.88 0)
+			(at 30.48 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16040,7 +14281,7 @@
 			)
 		)
 		(property "Value" "A"
-			(at 45.72 55.8799 90)
+			(at 38.1 179.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16049,7 +14290,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 55.88 0)
+			(at 34.29 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16057,7 +14298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 55.88 0)
+			(at 34.29 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16066,7 +14307,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"LINE\""
-			(at 41.91 55.88 0)
+			(at 34.29 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16081,219 +14322,6 @@
 			(project "BLDC-Driver-KonTeam_power"
 				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
 					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IRFZ44N:IRFZ44N")
-		(at 160.02 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ce6f62b7-4e54-4e91-a408-55670fe747fa")
-		(property "Reference" "Q8"
-			(at 165.354 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 165.354 65.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Infineon Technologies"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-3 Infineon"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "09/21/10"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "IRFZ44N"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Infineon"
-			(at 160.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "d20624ca-3da1-42d6-93b9-ebf33033dcc2")
-		)
-		(pin "1"
-			(uuid "590c197d-1a92-4993-8ca3-4b64fe037cdf")
-		)
-		(pin "2"
-			(uuid "71eeac46-3540-4f8e-bc34-8aeedd5f0a6e")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "Q8")
 					(unit 1)
 				)
 			)
@@ -16368,7 +14396,7 @@
 	)
 	(symbol
 		(lib_id "power:LINE")
-		(at 41.91 62.23 270)
+		(at 34.29 185.42 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16377,7 +14405,7 @@
 		(fields_autoplaced yes)
 		(uuid "d054ff8a-5856-4ccb-b582-4b40e219c3f7")
 		(property "Reference" "#PWR045"
-			(at 38.1 62.23 0)
+			(at 30.48 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16386,7 +14414,7 @@
 			)
 		)
 		(property "Value" "B"
-			(at 45.72 62.2299 90)
+			(at 38.1 185.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16395,7 +14423,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 62.23 0)
+			(at 34.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16404,7 +14432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 62.23 0)
+			(at 34.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16413,7 +14441,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"LINE\""
-			(at 41.91 62.23 0)
+			(at 34.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16435,16 +14463,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 172.72 30.48 270)
+		(at 180.34 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d0ccc3ec-6ef1-4608-b9de-ac022600451e")
 		(property "Reference" "C2"
-			(at 172.7136 24.13 90)
+			(at 180.086 32.766 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16452,7 +14479,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 172.7136 26.67 90)
+			(at 180.34 26.162 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16460,7 +14487,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 172.72 30.48 0)
+			(at 180.34 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16469,7 +14496,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 30.48 0)
+			(at 180.34 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16478,7 +14505,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 172.72 30.48 0)
+			(at 180.34 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16589,7 +14616,7 @@
 	)
 	(symbol
 		(lib_id "IRFZ44N:IRFZ44N")
-		(at 199.39 62.23 0)
+		(at 203.2 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16597,7 +14624,7 @@
 		(dnp no)
 		(uuid "d79f9159-28af-409a-af00-245bdabfb968")
 		(property "Reference" "Q11"
-			(at 204.724 60.96 0)
+			(at 208.534 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16606,7 +14633,7 @@
 			)
 		)
 		(property "Value" "IRFZ44N"
-			(at 204.724 63.5 0)
+			(at 208.534 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16615,7 +14642,7 @@
 			)
 		)
 		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16625,7 +14652,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16634,7 +14661,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16643,7 +14670,7 @@
 			)
 		)
 		(property "MF" "Infineon Technologies"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16653,7 +14680,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16663,7 +14690,7 @@
 			)
 		)
 		(property "Package" "TO-220-3 Infineon"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16673,7 +14700,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16683,7 +14710,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16693,7 +14720,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16703,7 +14730,7 @@
 			)
 		)
 		(property "PARTREV" "09/21/10"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16713,7 +14740,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16723,7 +14750,7 @@
 			)
 		)
 		(property "MP" "IRFZ44N"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16733,7 +14760,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16743,7 +14770,7 @@
 			)
 		)
 		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16753,7 +14780,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16763,7 +14790,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16773,7 +14800,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Infineon"
-			(at 199.39 62.23 0)
+			(at 203.2 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16802,7 +14829,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 232.41 30.48 270)
+		(at 218.44 31.75 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16811,7 +14838,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7ded00d-5566-4b2b-a112-7d03fed82dfb")
 		(property "Reference" "C3"
-			(at 232.4036 24.13 90)
+			(at 218.4336 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16819,7 +14846,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 232.4036 26.67 90)
+			(at 218.4336 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16827,7 +14854,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 232.41 30.48 0)
+			(at 218.44 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16836,7 +14863,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 232.41 30.48 0)
+			(at 218.44 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16845,7 +14872,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 232.41 30.48 0)
+			(at 218.44 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16870,7 +14897,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small_US")
-		(at 19.05 30.48 0)
+		(at 36.83 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16879,7 +14906,7 @@
 		(fields_autoplaced yes)
 		(uuid "d93712c5-841d-4e94-84c0-aa22fb599798")
 		(property "Reference" "C4"
-			(at 21.59 28.7781 0)
+			(at 39.37 41.4781 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16888,7 +14915,7 @@
 			)
 		)
 		(property "Value" "220uF 100V"
-			(at 21.59 31.3181 0)
+			(at 39.37 44.0181 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16897,7 +14924,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P2.50mm"
-			(at 19.05 30.48 0)
+			(at 36.83 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16906,7 +14933,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 19.05 30.48 0)
+			(at 36.83 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16915,7 +14942,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small US symbol"
-			(at 19.05 30.48 0)
+			(at 36.83 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17091,7 +15118,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 19.05 24.13 0)
+		(at 36.83 36.83 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17100,7 +15127,7 @@
 		(dnp no)
 		(uuid "e51f73ba-7336-46cc-abd6-0693689cf29e")
 		(property "Reference" "#PWR019"
-			(at 19.05 27.94 0)
+			(at 36.83 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17109,7 +15136,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 19.05 20.066 0)
+			(at 36.83 32.766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17117,7 +15144,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 19.05 24.13 0)
+			(at 36.83 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17126,7 +15153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 19.05 24.13 0)
+			(at 36.83 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17135,7 +15162,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 19.05 24.13 0)
+			(at 36.83 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17247,7 +15274,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 154.94 92.71 0)
 			(effects
 				(font
@@ -17265,7 +15292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 154.94 92.71 0)
 			(effects
 				(font
@@ -17856,7 +15883,7 @@
 		(dnp no)
 		(uuid "f9a710e5-b67a-4ffe-af76-32f059020f22")
 		(property "Reference" "R14"
-			(at 133.985 110.363 0)
+			(at 132.842 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17864,7 +15891,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 133.985 112.903 0)
+			(at 132.842 113.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18061,219 +16088,6 @@
 			(project "BLDC-Driver-KonTeam_power"
 				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
 					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IRFZ44N:IRFZ44N")
-		(at 218.44 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ffd59599-a46c-449d-8fd4-dfdf55b911bf")
-		(property "Reference" "Q10"
-			(at 223.774 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFZ44N"
-			(at 223.774 40.386 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "IRFZ44N:TO254P1016X419X2286-3"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Infineon Technologies"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "22.86 mm"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-220-3 Infineon"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "09/21/10"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "IRFZ44N"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&manufacturer=Infineon Technologies&part_name=IRFZ44N&search_term=None"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nN-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB\n"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "IRFZ44N"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Infineon"
-			(at 218.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "33af37e8-ea9e-486f-8ddc-f75a5e1c2133")
-		)
-		(pin "1"
-			(uuid "f2a1efc0-53ba-4384-9d35-c59a1bae6587")
-		)
-		(pin "2"
-			(uuid "2f5eb371-9e09-4e8c-9d04-58a2ece8e2cd")
-		)
-		(instances
-			(project "BLDC-Driver-KonTeam_power"
-				(path "/0792bef5-a4af-4c10-ac44-58bd48e23376"
-					(reference "Q10")
 					(unit 1)
 				)
 			)
