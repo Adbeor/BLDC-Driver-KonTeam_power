@@ -1,0 +1,10 @@
+# Backups de KiCad
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+gerber_to_order/*
+# Archivos locales/provisionales
+fp-info-cache
+*.lck

@@ -1,0 +1,17 @@
+### Missing 3D models - created on 2025-06-14 20:07
+### Printed by checking_3D_models plugin
+Board file: /home/adriandbo/Documentos/proyectos/KON/BLDC-Driver-KonTeam_power/BLDC-Driver-KonTeam_power.kicad_pcb
+3D missing models written to:
+/home/adriandbo/Documentos/proyectos/KON/BLDC-Driver-KonTeam_power/BLDC-Driver-KonTeam_power_missing3Dmodels.txt
+-------
+('Q3', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp')
+('U4', 'D:/Users/admin/Documents/KiCad/Libraries/Packages3d/Modules/DCDC_StepDown_LM2596/YAAJ_DCDC_StepDown_LM2596_PinHeaders_cp.wrl')
+('Q5', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp')
+('Q1', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp')
+('Q2', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp')
+('Q4', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp')
+('Q6', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp')
+('F1', '/usr/share/kicad/3dmodels/Fuse.3dshapes/Fuse_Littelfuse-LVR100.step')
+-------
+NUM of 3D missing models:8
+checked extensions ['.stp', '.step', '.stpZ']

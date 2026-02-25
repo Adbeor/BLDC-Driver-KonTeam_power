@@ -1,0 +1,15 @@
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+D:/Users/admin/Documents/KiCad/Libraries/Packages3d/Modules/DCDC_StepDown_LM2596/YAAJ_DCDC_StepDown_LM2596_PinHeaders_cp.wrl
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp
+Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
+kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp
+[('Q3', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp'), ('U4', 'D:/Users/admin/Documents/KiCad/Libraries/Packages3d/Modules/DCDC_StepDown_LM2596/YAAJ_DCDC_StepDown_LM2596_PinHeaders_cp.wrl'), ('Q5', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp'), ('Q1', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp'), ('Q2', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp'), ('Q4', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp'), ('Q6', 'kicad-embed://PG-TO220-3-904_Z8B00185321_V03_3D.stp'), ('F1', '/usr/share/kicad/3dmodels/Fuse.3dshapes/Fuse_Littelfuse-LVR100.step')]
