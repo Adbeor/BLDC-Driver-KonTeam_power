@@ -8,3 +8,6 @@ gerber_to_order/*
 # Archivos locales/provisionales
 fp-info-cache
 *.lck
+\#auto_saved_files\#
+_autosave-BLDC-Driver-KonTeam_power.kicad_sch
+_autosave-untitled.kicad_sch
